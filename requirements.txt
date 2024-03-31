@@ -119,7 +119,6 @@ matplotlib-scalebar==0.8.1
 mdit-py-plugins==0.3.5
 mdurl==0.1.2
 mistune==2.0.5
-modeci-mdf @ file:///C:/Users/dell/MDF
 modelspec==0.2.7
 mpmath==1.3.0
 msgpack==1.0.5
@@ -169,7 +168,6 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
 pydeck==0.8.1b0
-pydot @ file:///C:/b/abs_2c8n5fzxpn/croot/pydot_1671046280781/work
 Pygments==2.14.0
 PyLEMS==0.6.0
 pymongo==4.3.3
